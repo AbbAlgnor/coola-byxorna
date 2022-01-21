@@ -1,0 +1,11 @@
+{
+    "day": {
+        "monday": 5,
+        "tuesday": 9,
+        "wednesday": 99,
+        "thursday": 999,
+        "friday": 89,
+        "saturday": 1,
+        "sunday": 111
+    }
+}

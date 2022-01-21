@@ -1,0 +1,24 @@
+body{
+    background-image: url("/img/background.jpg");
+    margin: 0px;
+    overflow: hidden;
+}
+
+#header{
+    background-color: white;
+    margin-bottom: 20px;
+}
+
+#logo{
+    background-color: white;
+    height: 70px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+.img_modal{
+  height: 200px;
+  margin: 50px;
+}
